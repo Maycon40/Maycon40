@@ -130,6 +130,8 @@ Olá! Meu nome é Maycon Santos Gonçalves, tenho 19 anos. Atualmente, estou cur
 
 </p>
 
+<br/>
+
 ### 📬 Onde me encontrar
 
 - **LinkedIn:** [in/maycon-santos](https://www.linkedin.com/in/maycon-santos-045803355/)
